@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>DataRMI</name><driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver><username>sa</username><password>dang</password><savePassword>true</savePassword><url>jdbc:sqlserver://localhost:1433;databaseName=QLLK_RMI</url><database></database><serverAddress></serverAddress><classpath>C:\Users\HP\OneDrive\Máy tính\sqljdbc_9.2.1.0_enu\sqljdbc_9.2\enu\mssql-jdbc-9.2.1.jre11.jar</classpath></jdbcDataAdapter>
